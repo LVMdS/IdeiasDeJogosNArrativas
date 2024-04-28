@@ -1,17 +1,12 @@
 Título: A Jornada dos Reinos Elementais
 
-Em um mundo dividido em quatro grandes reinos elementais - Terra, Fogo, Água e Ar -, a harmonia entre eles é mantida pelo equilíbrio dos quatro artefatos sagrados: a Espada da Terra, o Cetro do Fogo, o Cálice da Água e o Arco dos Ventos. No entanto, uma força maligna ameaça essa paz milenar.
-
+  Em um mundo dividido em quatro grandes reinos elementais - Terra, Fogo, Água e Ar -, a harmonia entre eles é mantida pelo equilíbrio dos quatro artefatos sagrados: a Espada da Terra, o Cetro do Fogo, o Cálice da Água e o Arco dos Ventos. No entanto, uma força maligna ameaça essa paz milenar.
 O jogador assume o papel de um herói destinado a reunir esses artefatos e restaurar a ordem nos reinos. Eles podem escolher entre quatro classes distintas: Guerreiro, Mago, Arqueiro e Fera. Cada classe tem suas habilidades únicas e estilos de jogo específicos.
-
 A jornada começa em uma vila humilde no centro do mundo, onde rumores sobre os artefatos despertam a curiosidade do jogador. Eles devem explorar mapas aleatórios, enfrentar criaturas selvagens e completar missões secundárias para ganhar experiência e itens valiosos.
-
-Ao longo da jornada, o jogador pode forjar suas próprias armas e armaduras usando os materiais encontrados durante a exploração. Cada item forjado pode ser personalizado com atributos adicionais, como força, destreza, inteligência e vitalidade, aumentando o poder do jogador.
-
+  
+  Ao longo da jornada, o jogador pode forjar suas próprias armas e armaduras usando os materiais encontrados durante a exploração. Cada item forjado pode ser personalizado com atributos adicionais, como força, destreza, inteligência e vitalidade, aumentando o poder do jogador.
 Além disso, novas magias são adquiridas conforme o jogador avança de nível. O sistema de progressão é baseado em um aumento de 14% em relação à experiência necessária para atingir o próximo nível. Com um limite máximo de nível 105, o jogador enfrentará desafios cada vez maiores à medida que avança na campanha.
-
 A campanha principal leva o jogador por uma série de masmorras, florestas encantadas, desertos escaldantes e montanhas congeladas, cada uma guardando um dos artefatos elementais. No entanto, para acessar esses artefatos, o jogador deve primeiro provar sua coragem e habilidade enfrentando chefes poderosos e resolvendo quebra-cabeças desafiadores.
-
-Ao longo do caminho, o jogador encontrará personagens intrigantes que oferecem missões secundárias, algumas das quais revelam segredos sobre o passado do mundo e fornecem recompensas exclusivas, como novas habilidades, itens raros e receitas de forjamento.
-
+  
+  Ao longo do caminho, o jogador encontrará personagens intrigantes que oferecem missões secundárias, algumas das quais revelam segredos sobre o passado do mundo e fornecem recompensas exclusivas, como novas habilidades, itens raros e receitas de forjamento.
 A narrativa culmina em uma batalha épica contra o vilão supremo, que busca usar os artefatos elementais para dominar o mundo. O jogador, com suas habilidades aprimoradas e os artefatos reunidos, enfrenta o inimigo em uma luta de proporções titânicas para determinar o destino dos reinos elementais.
